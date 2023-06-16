@@ -14,4 +14,5 @@
 
 ## UI
 Скриншот основной страницы интерфейса:
-* ![Screenshot_5](https://github.com/leekyooroff/WeatherApp/assets/79461763/e1779997-b84c-4d8a-b689-cbd688939015)
+* ![Screenshot_2](https://github.com/leekyooroff/WeatherApp/assets/79461763/e4c9f1e8-9be5-4dd8-88ab-be980491a32e)
+
